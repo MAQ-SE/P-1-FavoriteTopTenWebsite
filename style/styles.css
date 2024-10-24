@@ -39,3 +39,15 @@
     font-weight: 900;
     font-style: normal;
   }
+
+
+
+  .nav-item-dropdown {
+    position: absolute;
+    left: 1145px;
+    color: white;
+  }
+
+  .navbar-nav {
+    ;
+  }
